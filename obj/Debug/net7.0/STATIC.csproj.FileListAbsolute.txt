@@ -1,0 +1,15 @@
+/Users/ngdev/NGDEV/DotNet/STATIC/bin/Debug/net7.0/STATIC
+/Users/ngdev/NGDEV/DotNet/STATIC/bin/Debug/net7.0/STATIC.deps.json
+/Users/ngdev/NGDEV/DotNet/STATIC/bin/Debug/net7.0/STATIC.runtimeconfig.json
+/Users/ngdev/NGDEV/DotNet/STATIC/bin/Debug/net7.0/STATIC.dll
+/Users/ngdev/NGDEV/DotNet/STATIC/bin/Debug/net7.0/STATIC.pdb
+/Users/ngdev/NGDEV/DotNet/STATIC/obj/Debug/net7.0/STATIC.csproj.AssemblyReference.cache
+/Users/ngdev/NGDEV/DotNet/STATIC/obj/Debug/net7.0/STATIC.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ngdev/NGDEV/DotNet/STATIC/obj/Debug/net7.0/STATIC.AssemblyInfoInputs.cache
+/Users/ngdev/NGDEV/DotNet/STATIC/obj/Debug/net7.0/STATIC.AssemblyInfo.cs
+/Users/ngdev/NGDEV/DotNet/STATIC/obj/Debug/net7.0/STATIC.csproj.CoreCompileInputs.cache
+/Users/ngdev/NGDEV/DotNet/STATIC/obj/Debug/net7.0/STATIC.dll
+/Users/ngdev/NGDEV/DotNet/STATIC/obj/Debug/net7.0/refint/STATIC.dll
+/Users/ngdev/NGDEV/DotNet/STATIC/obj/Debug/net7.0/STATIC.pdb
+/Users/ngdev/NGDEV/DotNet/STATIC/obj/Debug/net7.0/STATIC.genruntimeconfig.cache
+/Users/ngdev/NGDEV/DotNet/STATIC/obj/Debug/net7.0/ref/STATIC.dll
